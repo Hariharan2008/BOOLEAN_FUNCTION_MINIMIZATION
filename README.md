@@ -39,12 +39,14 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization**
+![exp2 B](https://github.com/user-attachments/assets/45c10a20-deb9-4a86-ba5c-2b6f905ae5e3)
 
 **Output:**
 
 **RTL**
 
 **Timing Diagram**
+![exp 2](https://github.com/user-attachments/assets/8d4a4d7e-7002-4814-b091-e30ffdcaec8d)
 
 **Result:**
 
